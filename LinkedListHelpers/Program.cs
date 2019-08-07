@@ -45,6 +45,10 @@ namespace LinkedListHelpers
                 }
             }
 
+            public void DeleteNode(string data)
+            {
+                
+            }
             public void Print()
             {
                 if (headNode == null)
@@ -58,19 +62,9 @@ namespace LinkedListHelpers
             Node myNode = new Node("E");
             myNode.next = new Node("B");
             myNode.next.next = new Node("E");
-            myNode.next.next.next = new Node("E");
-            myNode.next.next.next.next = new Node("B");
-            myNode.next.next.next.next.next = new Node("A");
-            myNode.next.next.next.next.next.next = new Node("B");
+            myNode.next.next.next = new Node("B");
+            myNode.next.next.next.next = new Node("A");
             myNode.Print();
-            //MyList list = new MyList();
-            //list.AddToEnd("E");
-            //list.AddToEnd("B");
-            //list.AddToEnd("E");
-            //list.AddToEnd("B");
-            //list.AddToEnd("A");
-            //list.AddToEnd("B");
-            //list.Print();
         }
     }
 }
