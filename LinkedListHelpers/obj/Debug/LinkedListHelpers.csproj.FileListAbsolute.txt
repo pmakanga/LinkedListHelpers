@@ -1,0 +1,7 @@
+D:\Projects\DotNET\LinkedListHelpers\LinkedListHelpers\bin\Debug\LinkedListHelpers.exe.config
+D:\Projects\DotNET\LinkedListHelpers\LinkedListHelpers\bin\Debug\LinkedListHelpers.exe
+D:\Projects\DotNET\LinkedListHelpers\LinkedListHelpers\bin\Debug\LinkedListHelpers.pdb
+D:\Projects\DotNET\LinkedListHelpers\LinkedListHelpers\obj\Debug\LinkedListHelpers.csprojAssemblyReference.cache
+D:\Projects\DotNET\LinkedListHelpers\LinkedListHelpers\obj\Debug\LinkedListHelpers.csproj.CoreCompileInputs.cache
+D:\Projects\DotNET\LinkedListHelpers\LinkedListHelpers\obj\Debug\LinkedListHelpers.exe
+D:\Projects\DotNET\LinkedListHelpers\LinkedListHelpers\obj\Debug\LinkedListHelpers.pdb
